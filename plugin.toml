@@ -1,0 +1,4 @@
+name = "vanilla"
+authors = ["sel-project"]
+target = "node"
+main = "selery.vanilla.Main"
